@@ -144,6 +144,20 @@ tihs is the second line.
 
 Bye!
 (hit ctrl-c will finish cat command and redirecting input  to from-input.txt)
+##Sorting a text file or unique values in text file
+___
+sort file.txt | uniq
+or
+sort -u file.txt
+##Miscelaneous Commands
+__
+uptime
+cal
+wc wordcount
+wc *.txt
+
+
+
 
 
 

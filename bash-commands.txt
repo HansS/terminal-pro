@@ -1,0 +1,78 @@
+    1  pw
+    2  pwd
+    3  man pushd
+    4  pushd
+    5  pushd ~/web
+    6  dirs
+    7  pushd ~/web/commandline
+    8  dirs
+    9  popd
+   10  popd
+   11  cls
+   12  which notepad
+   13  which vscode
+   14  pwd
+   15  file web
+   16  cd web
+   17  dir
+   18  cd commandline/
+   19  dir
+   20  cd terminal/
+   21  di
+   22  dir
+   23  cd terminal-pro/
+   24  dir
+   25  which readme.md 
+   26  file readme.md 
+   27  basename pwd
+   28  clear
+   29  ls -l
+   30  gzip readme.md
+   31  gzip -d readme.md.gz
+   32  ls -l
+   33  ls
+   34  ls -l
+   35  ls -l > listing.txt
+   36  cat listing.txt
+   37  clear
+   38  cd ../../..
+   39  ls -l
+   40  ls -l | grep html
+   41  ls -l | grp Nov 21
+   42  ls -l | grep Nov 21
+   43  ls -l | grep 'Nov 21'
+   44  ls -l | grep 'Nov 20'
+   45  cd node
+   46  dir
+   47  ls -l
+   48  ls -l ~ | grep 'Nov 20'
+   49  pwd
+   50  cd ~
+   51  pwd
+   52  ls -l | grep 'Nov 20'
+   53  pwd
+   54  dir
+   55  cd node_modules/
+   56  dir
+   57  ls -l | grep 'Nov 20'
+   58  clear
+   59  cat from-input.txt
+   60  cat > from-input.txt
+   61  cat from-input.txt 
+   62  history
+   63  cd ~
+   64  pwd
+   65  history | command-history-nov21.txt
+   66  history > command-history-nov21.txt
+   67  ls
+   68  ls -l | grep 'command'
+   69  command-history-nov21.txt
+   70  notepad
+   71  notepad command-history-nov21.txt 
+   72  pwd
+   73  cd web
+   74  cd commandline/
+   75  cd terminal/
+   76  cd terminal-pro/
+   77  dir
+   78  history > bash-commands.txt
